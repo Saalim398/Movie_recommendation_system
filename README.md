@@ -1,6 +1,6 @@
 # Movie_recommendation_system
 
-## Version  `1.0`
+### Version  `1.0`
 
 ## Python modules used:  
 1. Numpy
